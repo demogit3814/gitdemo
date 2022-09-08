@@ -12,6 +12,7 @@ pipeline {
             }
             steps {
                 echo "Bulding Dev stage without prompt"
+                echo "Hello"
                 echo "password is ${params.Password}"
                 echo "${params.log}"
             }
