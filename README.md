@@ -1,3 +1,3 @@
 # gitdemo
-[![Build Status](http://43.205.214.201/buildStatus/icon?job=Conditionals)](http://43.205.214.201/job/Conditionals/)
+[![Build Status](http://13.233.230.148/buildStatus/icon?job=Conditionals)](http://13.233.230.148/job/Conditionals/)
 README file
